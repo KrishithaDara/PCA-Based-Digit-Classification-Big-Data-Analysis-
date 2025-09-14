@@ -64,6 +64,5 @@ jupyter notebook mnist_pca_classification.ipynb
 ## Visualizations
 
 The project includes:
-- 📊 PCA scatter plot of first two components colored by digit
-- 📈 Accuracy vs. number of components curve
-- 🎯 Classification performance metrics
+-  PCA scatter plot of first two components colored by digit
+-  Accuracy vs. number of components curve
