@@ -45,7 +45,7 @@ The project uses the MNIST dataset from OpenML, which contains:
 
 Open and run the Jupyter notebook:
 ```bash
-jupyter notebook mnist_pca_classification.ipynb
+jupyter notebook big_data_final.ipynb
 ```
 
 ## Results
