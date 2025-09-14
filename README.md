@@ -2,10 +2,13 @@
 MNIST Digit Classification using PCA and Gaussian Naive Bayes
 A Python implementation of handwritten digit classification using Principal Component Analysis (PCA) for dimensionality reduction and Gaussian Naive Bayes for classification on the MNIST dataset.
 1.Overview
+
 This project demonstrates how dimensionality reduction can be effectively used for digit classification. The implementation uses PCA to reduce the 784-dimensional MNIST images to a lower-dimensional space and then applies Gaussian Naive Bayes classification based on multivariate normal distributions.
 
 2.Features
+
 Dimensionality Reduction: Uses PCA to reduce MNIST images from 784 to a configurable number of principal components
+
 Gaussian Classification: Implements classification using multivariate normal distributions for each digit class
 Hyperparameter Optimization: Automatically finds the optimal number of principal components
 Visualization: Includes scatter plots of the first two principal components and accuracy curves
